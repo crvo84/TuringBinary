@@ -353,8 +353,8 @@
 		<transition>
 			<from>26</from>
 			<to>13</to>
-			<read/>
-			<write/>
+			<read>=</read>
+			<write>=</write>
 			<move>R</move>
 		</transition>
 		<transition>
