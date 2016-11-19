@@ -683,7 +683,7 @@
 			<from>23</from>
 			<to>22</to>
 			<read>0</read>
-			<write>#</write>
+			<write/>
 			<move>R</move>
 		</transition>
 		<transition>
